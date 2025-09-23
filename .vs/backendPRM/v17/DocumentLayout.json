@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "H:\\deoonroi\\backendPRM392\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E507D608-A348-4E0A-BF92-F0AD81B9F0DD}|backendPRM.csproj|h:\\deoonroi\\backendprm392\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E507D608-A348-4E0A-BF92-F0AD81B9F0DD}|backendPRM.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E507D608-A348-4E0A-BF92-F0AD81B9F0DD}|backendPRM.csproj|h:\\deoonroi\\backendprm392\\domains\\v1\\auth\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E507D608-A348-4E0A-BF92-F0AD81B9F0DD}|backendPRM.csproj|solutionrelative:domains\\v1\\auth\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "H:\\deoonroi\\backendPRM392\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "H:\\deoonroi\\backendPRM392\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T16:21:05.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CreateRoleDto.cs",
               "DocumentMoniker": "H:\\deoonroi\\backendPRM392\\Domains\\v1\\Auth\\Dto\\CreateRoleDto.cs",
               "RelativeDocumentMoniker": "Domains\\v1\\Auth\\Dto\\CreateRoleDto.cs",
@@ -38,12 +55,11 @@
               "RelativeToolTip": "Domains\\v1\\Auth\\Dto\\CreateRoleDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T15:44:47.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T15:44:47.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Role.cs",
               "DocumentMoniker": "H:\\deoonroi\\backendPRM392\\Models\\Role.cs",
               "RelativeDocumentMoniker": "Models\\Role.cs",
@@ -51,12 +67,11 @@
               "RelativeToolTip": "Models\\Role.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAQwA0AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T15:43:58.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T15:43:58.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "launchSettings.json",
               "DocumentMoniker": "H:\\deoonroi\\backendPRM392\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -64,18 +79,17 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-23T15:42:35.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T15:42:35.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RolesController.cs",
               "DocumentMoniker": "H:\\deoonroi\\backendPRM392\\Domains\\v1\\Auth\\Controllers\\RolesController.cs",
               "RelativeDocumentMoniker": "Domains\\v1\\Auth\\Controllers\\RolesController.cs",
               "ToolTip": "H:\\deoonroi\\backendPRM392\\Domains\\v1\\Auth\\Controllers\\RolesController.cs",
               "RelativeToolTip": "Domains\\v1\\Auth\\Controllers\\RolesController.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAkwFUAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAkwFYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T15:41:41.776Z",
               "EditorCaption": ""
