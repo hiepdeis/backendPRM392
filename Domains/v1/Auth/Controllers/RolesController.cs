@@ -1,13 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using backendPRM;
+﻿using backendPRM;
 using backendPRM.Domains.v1.Auth.Dto;
 using backendPRM.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace backendPRM.Domains.v1.Auth.Controllers
 {
@@ -75,6 +75,7 @@ namespace backendPRM.Domains.v1.Auth.Controllers
         }
 
         // POST: api/Roles
+        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
         public async Task<ActionResult<Role>> PostRole(CreateRoleDto dto)
         {
@@ -84,9 +85,10 @@ namespace backendPRM.Domains.v1.Auth.Controllers
             };
 
             _context.Roles.Add(role);
-            await _context.SaveChangesAsync();
+            await _context.SaveChangesAsync(); 
 
             return CreatedAtAction("GetRole", new { id = role.Id }, role);
+
         }
 
         // DELETE: api/Roles/5
