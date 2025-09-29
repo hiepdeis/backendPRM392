@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\GitHub\\backendPRM392\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\GitHub\\backendPRM392\\Domains\\v1\\Auth\\Controllers\\RolesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domains\\v1\\Auth\\Controllers\\RolesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E507D608-A348-4E0A-BF92-F0AD81B9F0DD}|backendPRM.csproj|c:\\users\\admin\\documents\\github\\backendprm392\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E507D608-A348-4E0A-BF92-F0AD81B9F0DD}|backendPRM.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\GitHub\\backendPRM392\\Domains\\v1\\Auth\\Dto\\CreateRoleDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domains\\v1\\Auth\\Dto\\CreateRoleDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E507D608-A348-4E0A-BF92-F0AD81B9F0DD}|backendPRM.csproj|c:\\users\\admin\\documents\\github\\backendprm392\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E507D608-A348-4E0A-BF92-F0AD81B9F0DD}|backendPRM.csproj|solutionrelative:mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\GitHub\\backendPRM392\\Models\\Role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E507D608-A348-4E0A-BF92-F0AD81B9F0DD}|backendPRM.csproj|c:\\users\\admin\\documents\\github\\backendprm392\\domains\\v1\\auth\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E507D608-A348-4E0A-BF92-F0AD81B9F0DD}|backendPRM.csproj|solutionrelative:domains\\v1\\auth\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\GitHub\\backendPRM392\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E507D608-A348-4E0A-BF92-F0AD81B9F0DD}|backendPRM.csproj|c:\\users\\admin\\documents\\github\\backendprm392\\domains\\v1\\auth\\dto\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E507D608-A348-4E0A-BF92-F0AD81B9F0DD}|backendPRM.csproj|solutionrelative:domains\\v1\\auth\\dto\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E507D608-A348-4E0A-BF92-F0AD81B9F0DD}|backendPRM.csproj|c:\\users\\admin\\documents\\github\\backendprm392\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E507D608-A348-4E0A-BF92-F0AD81B9F0DD}|backendPRM.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E507D608-A348-4E0A-BF92-F0AD81B9F0DD}|backendPRM.csproj|c:\\users\\admin\\documents\\github\\backendprm392\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E507D608-A348-4E0A-BF92-F0AD81B9F0DD}|backendPRM.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +34,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\backendPRM392\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\backendPRM392\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-24T05:56:20.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\backendPRM392\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "MyDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\backendPRM392\\MyDbContext.cs",
+              "RelativeToolTip": "MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T05:56:17.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CreateRoleDto.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\backendPRM392\\Domains\\v1\\Auth\\Dto\\CreateRoleDto.cs",
               "RelativeDocumentMoniker": "Domains\\v1\\Auth\\Dto\\CreateRoleDto.cs",
@@ -42,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\backendPRM392\\Models\\Role.cs",
               "RelativeDocumentMoniker": "Models\\Role.cs",
@@ -54,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\backendPRM392\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -66,16 +99,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "RolesController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\backendPRM392\\Domains\\v1\\Auth\\Controllers\\RolesController.cs",
               "RelativeDocumentMoniker": "Domains\\v1\\Auth\\Controllers\\RolesController.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\backendPRM392\\Domains\\v1\\Auth\\Controllers\\RolesController.cs",
               "RelativeToolTip": "Domains\\v1\\Auth\\Controllers\\RolesController.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAkwE4AAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwFEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T15:41:41.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T15:41:41.776Z"
             }
           ]
         }

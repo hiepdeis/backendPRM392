@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("backendPRM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fa0d4fa302c4eb42c83c6ea5552351371db0d9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("backendPRM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("backendPRM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
